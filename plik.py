@@ -1,0 +1,1 @@
+print ('Nazywam sie K')
